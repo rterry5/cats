@@ -9,6 +9,7 @@ body {
 h1 {
   color: purple;
   font-family: 'Oswald', sans-serif;
+  font-size: 75px;
 }
 
 /* line 11, ../sass/main.scss */
