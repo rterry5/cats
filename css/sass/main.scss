@@ -1,11 +1,13 @@
 body {
-    background-image: url("https://github.com/rterry5/cats/blob/master/background.jpg");
+    background-image: url("https://github.com/rterry5/cats/blob/master/background.jpg?raw=true");
     background-repeat: repeat;
     background-size: cover;
 }
 
 h1 {
     color: purple;
+    font-family: 'Oswald', sans-serif;
+    font-size: 75px;
 }
 
 button {
