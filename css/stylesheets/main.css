@@ -1,6 +1,6 @@
 /* line 1, ../sass/main.scss */
 body {
-  background-image: url("https://github.com/rterry5/cats/blob/master/background.jpg");
+  background-image: url("background.jpg");
   background-repeat: repeat;
   background-size: cover;
 }
