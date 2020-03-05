@@ -48,3 +48,10 @@ button:hover:active, button:active:active {
 #cats {
   max-height: 500px;
 }
+
+@media screen and (max-width: 600px) {
+  /* line 46, ../sass/main.scss */
+  #cats {
+    height: 300px;
+  }
+}
